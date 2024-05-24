@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "После подтверждения брони",
+    "key": "after_booking",
+    "created": 1716475222,
+    "updated": 1716475222,
+    "enabled": 1,
+    "guests": 11,
+    "messages": 12,
+    "flats": 23
+  },
+  {
+    "id": 2,
+    "name": "В момент заселения",
+    "key": "after_check_in",
+    "created": 1716475222,
+    "updated": 1716475222,
+    "enabled": 1,
+    "guests": 5,
+    "messages": 12,
+    "flats": 25
+  },
+  {
+    "id": 3,
+    "name": "В случае повреждения имущества",
+    "key": "broken",
+    "created": 1716475222,
+    "updated": 1716475222,
+    "enabled": 0,
+    "guests": 5,
+    "messages": 12,
+    "flats": 23
+  },
+  {
+    "id": 4,
+    "name": "Перед отъездом",
+    "key": "before_check_out",
+    "created": 1716475222,
+    "updated": 1716475222,
+    "enabled": 1,
+    "guests": 0,
+    "messages": 12,
+    "flats": 25
+  },
+  {
+    "id": 5,
+    "name": "Все этапы от брони до выезда",
+    "key": "all_stages",
+    "created": 1716475222,
+    "updated": 1716475222,
+    "enabled": 1,
+    "guests": 14,
+    "messages": 15,
+    "flats": 25
+  },
+  {
+    "id": 6,
+    "name": "Отправка доступа к замку",
+    "key": "lock_info",
+    "created": 1716475222,
+    "updated": 1716475222,
+    "enabled": 0,
+    "guests": 5,
+    "messages": 9,
+    "flats": 23
+  },
+  {
+    "id": 8,
+    "name": "Инструкция по выезду",
+    "key": "checkout_info",
+    "created": 1716475222,
+    "updated": 1716475222,
+    "enabled": 1,
+    "guests": 6,
+    "messages": 8,
+    "flats": 23
+  },
+  {
+    "id": 7,
+    "name": "Инструкция по заезду",
+    "key": "checkin_info",
+    "created": 1716475222,
+    "updated": 1716475222,
+    "enabled": 1,
+    "guests": 7,
+    "messages": 7,
+    "flats": 23
+  }
+]
